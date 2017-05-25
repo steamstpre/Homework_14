@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_12", "Homework_12.csproj", "{A054D7D9-D548-7B1B-1273-A26E0C0DD472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_12.Editor", "Homework_12.Editor.csproj", "{C7554327-19EB-FE55-4CFA-01BC891B8D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A054D7D9-D548-7B1B-1273-A26E0C0DD472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A054D7D9-D548-7B1B-1273-A26E0C0DD472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A054D7D9-D548-7B1B-1273-A26E0C0DD472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A054D7D9-D548-7B1B-1273-A26E0C0DD472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7554327-19EB-FE55-4CFA-01BC891B8D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7554327-19EB-FE55-4CFA-01BC891B8D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7554327-19EB-FE55-4CFA-01BC891B8D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7554327-19EB-FE55-4CFA-01BC891B8D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
